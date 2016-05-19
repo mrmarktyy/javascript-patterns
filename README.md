@@ -1,4 +1,4 @@
-#JavaScript Patterns
+#JavaScript Patterns [![Build Status](https://travis-ci.org/mrmarktyy/javascript-patterns.svg?branch=master)]
 
 <img src="http://shichuan.github.com/javascript-patterns/img/js-patterns.png" alt="JS Patterns" title="JS Patterns" />
 <br />
