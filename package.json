@@ -1,0 +1,19 @@
+{
+  "name": "javascript-patterns",
+  "version": "1.0.0",
+  "description": "<img src=\"http://shichuan.github.com/javascript-patterns/img/js-patterns.png\" alt=\"JS Patterns\" title=\"JS Patterns\" /> <br /> Project page at: <a href=\"http://shichuan.github.com/javascript-patterns\" target=\"_blank\">http://shichuan.github.com/javascript-patterns</a>",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrmarktyy/javascript-patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrmarktyy/javascript-patterns/issues"
+  },
+  "homepage": "https://github.com/mrmarktyy/javascript-patterns#readme"
+}
