@@ -2,7 +2,7 @@
   "name": "javascript-patterns",
   "version": "1.0.0",
   "description": "<img src=\"http://shichuan.github.com/javascript-patterns/img/js-patterns.png\" alt=\"JS Patterns\" title=\"JS Patterns\" /> <br /> Project page at: <a href=\"http://shichuan.github.com/javascript-patterns\" target=\"_blank\">http://shichuan.github.com/javascript-patterns</a>",
-  "main": "index.js",
+  "main": "hello.js",
   "scripts": {
     "test": "./node_modules/jshint/bin/jshint hello.js"
   },
