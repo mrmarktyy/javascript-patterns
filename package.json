@@ -4,7 +4,7 @@
   "description": "<img src=\"http://shichuan.github.com/javascript-patterns/img/js-patterns.png\" alt=\"JS Patterns\" title=\"JS Patterns\" /> <br /> Project page at: <a href=\"http://shichuan.github.com/javascript-patterns\" target=\"_blank\">http://shichuan.github.com/javascript-patterns</a>",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "test": "./node_modules/jshint/bin/jshint hello.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mrmarktyy/javascript-patterns/issues"
   },
-  "homepage": "https://github.com/mrmarktyy/javascript-patterns#readme"
+  "homepage": "https://github.com/mrmarktyy/javascript-patterns#readme",
+  "dependencies": {
+    "jshint": "^2.9.2"
+  }
 }
